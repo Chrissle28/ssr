@@ -32,7 +32,11 @@
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat
                 nemo quia, perferendis nam ratione excepturi possimus optio
                 velit facere vitae architecto repellat, earum repellendus
-                perspiciatis sint itaque ex similique! Animi.
+                perspiciatis sint itaque ex similique! Animi. Lorem ipsum dolor
+                sit amet consectetur adipisicing elit. Magni possimus ut
+                reprehenderit, velit maiores, in, ipsa quaerat magnam
+                repudiandae aliquid tempora sapiente tenetur adipisci cumque
+                earum numquam quisquam. Saepe, aliquid.
             </div>
             <UiButton class="mt-5" outline @click="modal2 = false">
                 Abbrechen
